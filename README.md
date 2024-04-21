@@ -28,7 +28,7 @@ SVG files have minimal metadata.
 Icons in base64 contain only the necessary code. Place the code into the
 formatting below depending on your required useage.
 
-#### For use in <img> elements
+#### For use in `<img>` elements
 
 `data:image/png;base64;<logo code>`
 
