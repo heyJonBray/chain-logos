@@ -21,4 +21,4 @@ the `full` branch with the same naming conventions.
 
 ---
 
-If you have any questions, you can find me on [Warpcast][https://warpcast.com/jonbray.eth] 🫡
+If you have any questions, you can find me on [Warpcast](https://warpcast.com/jonbray.eth) 🫡
