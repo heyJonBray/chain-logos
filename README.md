@@ -17,7 +17,7 @@ lowercase and contains no spaces.
 All logos in `png` directory are strictly 400x400px as I use them in Farcaster
 Frames where large images drastically slow down page load times.
 
-Larger icons are in `png-large`.
+Icons > 400x400px should be placed in `png/large` dir.
 
 ### SVG
 
@@ -25,8 +25,8 @@ SVG files have minimal metadata.
 
 ### BASE64
 
-Icons in base64 contain only the necessary code. Place the code into the
-formatting below depending on your required useage.
+Icons in base64 contain only the necessary code. After retrieving the data, it must be placed into the
+format below depending on your required useage:
 
 #### For use in `<img>` elements
 
