@@ -2,7 +2,13 @@
 
 A collection of normalized blockchain logos.
 
-## Requirements
+## Install
+
+```
+npm install @heyjonbray/chain-logos
+```
+
+## Name Normalization
 
 The naming convention for logos is `<chain>Logo` where the chain name is
 lowercase and contains no spaces.
