@@ -1,4 +1,4 @@
-# Chain Logos
+# Blockchain Network Logos
 
 A collection of normalized blockchain logos.
 
@@ -37,5 +37,7 @@ format below depending on your required useage:
 `url('data:image/png;base64,<logo code>')`
 
 ---
+
+## TODO: create an npm package for easier importing
 
 If you have any questions, you can find me on [Warpcast](https://warpcast.com/jonbray.eth) 🫡
