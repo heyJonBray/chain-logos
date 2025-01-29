@@ -4,10 +4,10 @@ A collection of normalized blockchain logos.
 
 ## Requirements
 
-The naming convention for logos is `<chain>Logo.png` where the chain name is
+The naming convention for logos is `<chain>Logo` where the chain name is
 lowercase and contains no spaces.
 
-**Example:** _Polygon ZKEVM -> polygonzkevmLogo.png_
+**Example:** _Polygon ZKEVM -> polygonzkevmLogo_
 
 ### PNG
 
