@@ -10,10 +10,9 @@ npm install @heyjonbray/chain-logos
 
 ## Name Normalization
 
-The naming convention for logos is `<chain>Logo` where the chain name is
-lowercase and contains no spaces.
+The naming convention for logos is the chain name in lowercase with no spaces.
 
-**Example:** _Polygon ZKEVM -> polygonzkevmLogo_
+**Example:** _Polygon ZKEVM -> polygonzkevm_
 
 ### PNG
 
@@ -43,7 +42,5 @@ format below depending on your required useage:
 `url('data:image/png;base64,<logo code>')`
 
 ---
-
-## TODO: create an npm package for easier importing
 
 If you have any questions, you can find me on [Warpcast](https://warpcast.com/jonbray.eth) 🫡
