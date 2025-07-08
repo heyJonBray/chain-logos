@@ -1,6 +1,6 @@
 {
   "name": "@heyjonbray/chain-logos",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of normalized blockchain network logos.",
   "files": [
     "base64",
@@ -13,5 +13,8 @@
   },
   "keywords": [],
   "author": "Jon Bray <heyjonbray@pm.me>",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
 }
